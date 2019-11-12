@@ -1,6 +1,5 @@
 #!bin/bash
 cd
-whoami
 sudo chmod o+x /home/ubuntu
 sudo chmod o+x /home/ubuntu/OpenLoyalty
 cd
