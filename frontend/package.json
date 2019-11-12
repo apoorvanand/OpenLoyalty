@@ -89,7 +89,7 @@
     "jquery": "3.0.0",
     "jquery-datetimepicker": "^2.5.4",
     "jsoneditor": "^5.5.11",
-    "lodash": "4.0.0",
+    "lodash": "4.17.13",
     "microplugin": "0.0.3",
     "moment": "^2.14.1",
     "motion-ui": "^1.2.2",
