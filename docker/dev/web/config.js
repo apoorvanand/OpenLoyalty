@@ -1,5 +1,5 @@
 const config = {
-    "apiUrl": "http://52.207.246.254/app_dev.php/api",
+    "apiUrl": "http://54.161.230.216/app_dev.php/api",
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "perPage": 20,
@@ -7,7 +7,7 @@ const config = {
     "modules": []
 };
 window.OpenLoyaltyConfig = {
-    "apiUrl": "http://52.207.246.254/app_dev.php/api",
+    "apiUrl": "http://54.161.230.216/app_dev.php/api",
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "perPage": 20,
